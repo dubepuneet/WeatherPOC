@@ -9,4 +9,4 @@ openweathermapapp app key is saved in String.xml file
 I have run this application and tested my device, working fine.
 Please avoid to change city very quickly as this is POC for whether forecast.
 Showing forecast for 5 days and for every day I am showing forecast for every next 3 hours.
-You will have to test this application using same environment.
+You will have to test this application using same or compatible environment.
