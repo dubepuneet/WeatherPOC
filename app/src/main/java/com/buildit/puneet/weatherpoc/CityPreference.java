@@ -19,10 +19,8 @@ public class CityPreference {
      * getCity is used to get city name saved in preferences
      * @return City name
      */
-    public String getCity(){
-        //return prefs.getString("city", "Jerusalem, IS");        
-        //return prefs.getString("city", "Sydney, AU");        
-        return prefs.getString("city", "Jerusalem, IL");        
+    public String getCity(){ 
+        return prefs.getString("city", "London, GB");        
     }
 
     /**
